@@ -1,0 +1,27 @@
+Picassa Project Part 1
+
+Shenghui (Sunny) Sun
+I had no team mates for this assignment. 
+
+Date started: 1/14/12
+Date completed: 1/17/12
+Estimate number of hours: 6
+
+I didn't think that this assignment would take me so long, but it took a long time for me to debug. 
+My estimate was not every good. In the future I should be more careful about understanding the code provided and debug more carefully.
+
+I discussed the concept of being able to do operations (plus, div etc.) on x and y with Tianyu Shi.
+I also posted a question on Piazza, which was answered by Michael Zhou and I got help from Mike Hewner. 
+
+Note any books, papers, or online resources that you used in developing your solution: 
+I read the library for the Pattern class: 
+http://docs.oracle.com/javase/1.4.2/docs/api/java/util/regex/Pattern.html#matcher(java.lang.CharSequence)
+
+Description of the files used to start your project and test your project:
+I used the starting code when I snarfed the project and I used ParserTest.java to test my project. 
+
+Description of any data or resource files required by your project:
+none
+
+Your impressions of the assignment to help improve it in the future:
+Start earlier so that I can have more useful questions when I'm stuck on the harder part of the assignment. 
